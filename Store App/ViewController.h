@@ -8,8 +8,16 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
 
+@interface ViewController : UIViewController
+{
+    
+    NSMutableArray * productArray;
+}
+
++ (ViewController *) sharedInstance;
+
+@property (strong, nonatomic, readwrite) NSMutableArray *productArray;
 
 @end
 

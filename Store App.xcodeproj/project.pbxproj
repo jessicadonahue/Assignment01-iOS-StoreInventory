@@ -15,6 +15,14 @@
 		22F044E11E665C9C0041DC9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22F044DF1E665C9C0041DC9C /* LaunchScreen.storyboard */; };
 		22F044EC1E665C9C0041DC9C /* Store_AppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 22F044EB1E665C9C0041DC9C /* Store_AppTests.m */; };
 		22F044F71E665C9C0041DC9C /* Store_AppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 22F044F61E665C9C0041DC9C /* Store_AppUITests.m */; };
+		22F045091E6724310041DC9C /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22F045081E6724310041DC9C /* AddViewController.m */; };
+		22F0450E1E674FDA0041DC9C /* Object_Info.m in Sources */ = {isa = PBXBuildFile; fileRef = 22F0450D1E674FDA0041DC9C /* Object_Info.m */; };
+		22F045161E676CB40041DC9C /* tv40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22F045101E676CB40041DC9C /* tv40.jpg */; };
+		22F045171E676CB40041DC9C /* iphone7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22F045111E676CB40041DC9C /* iphone7.jpg */; };
+		22F045181E676CB40041DC9C /* galaxy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22F045121E676CB40041DC9C /* galaxy.jpg */; };
+		22F045191E676CB40041DC9C /* kindle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22F045131E676CB40041DC9C /* kindle.jpg */; };
+		22F0451A1E676CB40041DC9C /* noImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22F045141E676CB40041DC9C /* noImage.jpg */; };
+		22F0451C1E676EB90041DC9C /* apple_watch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22F0451B1E676EB90041DC9C /* apple_watch.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +59,16 @@
 		22F044F21E665C9C0041DC9C /* Store AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Store AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22F044F61E665C9C0041DC9C /* Store_AppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Store_AppUITests.m; sourceTree = "<group>"; };
 		22F044F81E665C9C0041DC9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22F045071E6724310041DC9C /* AddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddViewController.h; sourceTree = "<group>"; };
+		22F045081E6724310041DC9C /* AddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddViewController.m; sourceTree = "<group>"; };
+		22F0450C1E674FDA0041DC9C /* Object_Info.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Object_Info.h; path = ../../Store/Store/Object_Info.h; sourceTree = "<group>"; };
+		22F0450D1E674FDA0041DC9C /* Object_Info.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Object_Info.m; path = ../../Store/Store/Object_Info.m; sourceTree = "<group>"; };
+		22F045101E676CB40041DC9C /* tv40.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tv40.jpg; sourceTree = "<group>"; };
+		22F045111E676CB40041DC9C /* iphone7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iphone7.jpg; sourceTree = "<group>"; };
+		22F045121E676CB40041DC9C /* galaxy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galaxy.jpg; sourceTree = "<group>"; };
+		22F045131E676CB40041DC9C /* kindle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kindle.jpg; sourceTree = "<group>"; };
+		22F045141E676CB40041DC9C /* noImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = noImage.jpg; sourceTree = "<group>"; };
+		22F0451B1E676EB90041DC9C /* apple_watch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple_watch.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +123,16 @@
 				22F044D51E665C9C0041DC9C /* AppDelegate.m */,
 				22F044D71E665C9C0041DC9C /* ViewController.h */,
 				22F044D81E665C9C0041DC9C /* ViewController.m */,
+				22F0450C1E674FDA0041DC9C /* Object_Info.h */,
+				22F0450D1E674FDA0041DC9C /* Object_Info.m */,
+				22F045071E6724310041DC9C /* AddViewController.h */,
+				22F045081E6724310041DC9C /* AddViewController.m */,
+				22F045101E676CB40041DC9C /* tv40.jpg */,
+				22F0451B1E676EB90041DC9C /* apple_watch.jpg */,
+				22F045111E676CB40041DC9C /* iphone7.jpg */,
+				22F045121E676CB40041DC9C /* galaxy.jpg */,
+				22F045131E676CB40041DC9C /* kindle.jpg */,
+				22F045141E676CB40041DC9C /* noImage.jpg */,
 				22F044DA1E665C9C0041DC9C /* Main.storyboard */,
 				22F044DD1E665C9C0041DC9C /* Assets.xcassets */,
 				22F044DF1E665C9C0041DC9C /* LaunchScreen.storyboard */,
@@ -246,9 +274,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22F045191E676CB40041DC9C /* kindle.jpg in Resources */,
+				22F045181E676CB40041DC9C /* galaxy.jpg in Resources */,
 				22F044E11E665C9C0041DC9C /* LaunchScreen.storyboard in Resources */,
+				22F045161E676CB40041DC9C /* tv40.jpg in Resources */,
 				22F044DE1E665C9C0041DC9C /* Assets.xcassets in Resources */,
+				22F0451A1E676CB40041DC9C /* noImage.jpg in Resources */,
+				22F045171E676CB40041DC9C /* iphone7.jpg in Resources */,
 				22F044DC1E665C9C0041DC9C /* Main.storyboard in Resources */,
+				22F0451C1E676EB90041DC9C /* apple_watch.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,8 +307,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22F045091E6724310041DC9C /* AddViewController.m in Sources */,
 				22F044D91E665C9C0041DC9C /* ViewController.m in Sources */,
 				22F044D61E665C9C0041DC9C /* AppDelegate.m in Sources */,
+				22F0450E1E674FDA0041DC9C /* Object_Info.m in Sources */,
 				22F044D31E665C9C0041DC9C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -505,6 +541,7 @@
 				22F044FD1E665C9C0041DC9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22F044FE1E665C9C0041DC9C /* Build configuration list for PBXNativeTarget "Store AppTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +550,7 @@
 				22F045001E665C9C0041DC9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22F045011E665C9C0041DC9C /* Build configuration list for PBXNativeTarget "Store AppUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +559,7 @@
 				22F045031E665C9C0041DC9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
